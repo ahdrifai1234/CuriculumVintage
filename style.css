@@ -1,0 +1,30 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.backgroundvcolor {
+  background-color: #f6e488;
+}
+
+h5 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.progress {
+  height: 10px;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.text-purple {
+color: purple;
+}
